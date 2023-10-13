@@ -1,0 +1,2 @@
+-- 9. **Orders by Pizza Size:**
+--    Count the number of orders for each pizza size (small, medium, large).
